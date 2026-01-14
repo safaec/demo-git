@@ -1,6 +1,6 @@
 # Application de démonstration
 def saluer(nom):
-    return f"Bonjour {nom} !"
+    return f"Hello {nom}!"
 
 
 print(saluer("World"))
