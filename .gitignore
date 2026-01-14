@@ -1,0 +1,6 @@
+# Fichiers sensibles
+config.ini
+
+# Environnement virtuel
+venv/
+
