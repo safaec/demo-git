@@ -4,3 +4,9 @@ def saluer(nom):
 
 
 print(saluer("World"))
+
+def additionner(a, b):
+    return a + b
+
+
+print(additionner(5, 3))
